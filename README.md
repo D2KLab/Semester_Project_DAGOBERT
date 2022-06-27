@@ -19,4 +19,7 @@ https://drive.google.com/file/d/19P3JtMGF1Cqwen6EUnpB8hsJjnexausm/view?usp=shari
 One of the major changes that have been made compared to the original work is replacing some 'custom made BERT model' which was defined by the authors with the BERT model from hugging face.
 
 
+Also a couple of libraries are extinct, and we have updated. Follow the notebook in the beginning
+
+
 
